@@ -253,7 +253,7 @@ var APP_DATA = {
       "infoHotspots": []
     }
   ],
-  "name": "verde",
+  "name": "Appartamento Verde",
   "settings": {
     "mouseViewMode": "drag",
     "autorotateEnabled": false,
