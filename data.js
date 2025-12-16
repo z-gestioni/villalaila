@@ -30,8 +30,8 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": -0.5187530595843306,
-          "pitch": 0.20251915606501214,
+          "yaw": -0.5159619085361271,
+          "pitch": 0.2026806088205113,
           "rotation": 0,
           "target": "1-590321182132810"
         }
@@ -72,6 +72,12 @@ var APP_DATA = {
           "pitch": 0.19217597406120035,
           "rotation": 0,
           "target": "2-590321320142874"
+        },
+        {
+          "yaw": -2.0510559096365704,
+          "pitch": 0.6118491963478228,
+          "rotation": 5.497787143782138,
+          "target": "0-590321090591507"
         }
       ],
       "infoHotspots": []
@@ -156,8 +162,8 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": -1.2690902964811386,
-          "pitch": 0.527986912582417,
+          "yaw": -1.269090360552383,
+          "pitch": 0.5279869713308294,
           "rotation": 12.566370614359176,
           "target": "2-590321320142874"
         }
@@ -241,7 +247,7 @@ var APP_DATA = {
       "infoHotspots": []
     }
   ],
-  "name": "Project Title",
+  "name": "verde",
   "settings": {
     "mouseViewMode": "drag",
     "autorotateEnabled": false,
