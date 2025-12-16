@@ -112,8 +112,8 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": 1.3328197511759399,
-          "pitch": 0.3303912008464991,
+          "yaw": 1.6504969699690317,
+          "pitch": 0.5546302755800223,
           "rotation": 0,
           "target": "3-camera-da-letto"
         },
@@ -128,6 +128,12 @@ var APP_DATA = {
           "pitch": 0.27109814671814547,
           "rotation": 0,
           "target": "5-soggiorno"
+        },
+        {
+          "yaw": 3.0693011763598133,
+          "pitch": 0.5805455190841791,
+          "rotation": 0,
+          "target": "1-entrata"
         }
       ],
       "infoHotspots": []
